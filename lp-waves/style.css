@@ -44,8 +44,35 @@ body {
 }
 
 main {
-  background-image: url("images/bg-waves.jpg");
-  background-size: cover;
+}
+
+/* ABOUT */
+.about-container {
+  padding: 5%;
+  max-width: 80%;
+  margin: auto;
+}
+
+.about-image {
+  float: left;
+  max-width: 50%;
+}
+
+.about-waves {
+  position: absolute;
+  border-radius: 5% 5% 10% 5%;
+  box-shadow: 0px 0px 50px 0px #000000;
+}
+
+.about-profile {
+  position: absolute;
+  padding-top: 40px;
+  padding-left: 120px;
+}
+
+.about-desc {
+  float: right;
+  max-width: 50%;
 }
 
 /* COLOR PALETTE */
