@@ -1,15 +1,19 @@
-# Wellcome!
+# Welcome!
 
 This repository was created only for practice purpose.
 
 You can checkout my projects here:
 - [Waves](https://github.com/caealmeida/caealmeida-pages/tree/main/lp-waves) 🌊
 
-<br>
-Don't botter to feedback! Thanks!
-<hr>
+Feel free to send feedbacks!
 
-<div>
-<img src="https://user-images.githubusercontent.com/17756190/155863011-dbd5e052-463c-4d4f-b4e9-41a9637e5f0d.gif" align="center" />
-<div/>
-<hr>
+You can find me here: 
+[LinkedIn](https://linkedin.com/me/caealmeida) or [mail me](mailto:cae.almeida1@gmail.com)
+
+Thanks!
+
+---
+
+![banner](https://user-images.githubusercontent.com/17756190/155887132-cd0407d7-f198-45ce-bf85-b7f41e266c3a.gif)
+
+---
