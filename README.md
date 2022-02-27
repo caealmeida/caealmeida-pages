@@ -3,7 +3,6 @@
 This repository was created only for practice purpose.
 
 You can checkout my projects here:
-- [Waves](https://github.com/caealmeida/caealmeida-pages/tree/main/lp-waves) 🌊
 
 Feel free to send feedbacks!
 
